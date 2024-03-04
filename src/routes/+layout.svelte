@@ -1,5 +1,4 @@
 <script>
-	// Add any necessary script logic here
 </script>
 
 <slot />
@@ -24,5 +23,19 @@
 		background-color: #212121;
 		color: #ececec;
 		font-family: 'Arial', sans-serif;
+	}
+
+	:global(input) {
+		width: 100%;
+		border: 1px solid #414141;
+		color: #ececec;
+		background-color: transparent;
+		border-radius: 10px;
+		padding: 12px 48px 12px 12px;
+		font-size: 16px;
+	}
+
+	:global(input:focus) {
+		outline: none;
 	}
 </style>
