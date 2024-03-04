@@ -1,4 +1,6 @@
-# create-svelte
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7373ad00-31f0-47e2-9d14-d8d02d9a45fd/deploy-status)](https://app.netlify.com/sites/coruscating-figolla-b7ec64/deploys)
+
+# edesia
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
